@@ -1,0 +1,3 @@
+random	88	9
+apple	fruit	6
+darshan	6	8
